@@ -13,6 +13,7 @@
 | BeeCrowed | [fahim68](https://www.beecrowd.com.br/judge/en/profile/639982) | 51.8 | 18 | 
 | HackerEarth | [TBA]() | TBA | TBA |
 | HackerRank | [ftaf626](https://www.hackerrank.com/ftaf626) | TBA | TBA |
+| TUF        |[fahim1049](https://takeuforward.org/profile/fahim1049)  | TBA | TBA |
 | Total |  |  | 26 |
 
 Last Updated: 16 February, 2023
